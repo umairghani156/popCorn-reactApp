@@ -1,0 +1,59 @@
+.para{
+  margin: 10px 15px;
+}
+.descript{
+    border-bottom: 1px solid #293234;
+    padding: 3px 15px;
+    cursor: pointer;
+}
+.descript:hover{
+    background-color: #293234;
+}
+.moviesShowing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 12px 15px;
+    background-color: #293234;
+    border-radius: 10px;
+}
+.moviesShowing p {
+    margin: 0;
+}
+.movieCategory{
+    display: flex;
+    gap: 25px;
+    background-color: #293234;
+}
+.starsPar1{
+    margin: 30px 40px;
+}
+.starsPar2{
+    background-color: #293234;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 10px;
+    padding-right: 30px;
+    color: #907209;
+    
+}
+.movieWatch1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(56, 52, 52);
+    margin-Top: 10px;
+    padding: 10px 15px;
+}
+.movieWatch2{
+    display: flex;
+    flex-direction: column;
+}
+.movieWatch3{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    
+}
